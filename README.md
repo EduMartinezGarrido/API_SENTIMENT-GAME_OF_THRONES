@@ -4,7 +4,6 @@
 
 
 
-![image](https://github.com/EduMartinezGarrido/API_SENTIMENT-GAME_OF_THRONES/blob/main/images/personaje.png)
 
 
 
@@ -49,6 +48,7 @@ POST:
 ```
 - Realizar un Sentiment Analysis de las frases dichas en la serie Game of Thrones.
 
+![image](https://github.com/EduMartinezGarrido/API_SENTIMENT-GAME_OF_THRONES/blob/main/images/personaje.png)
 ```
 ## Datos
 ***
