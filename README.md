@@ -1,7 +1,7 @@
 # Sentiment Analysis - Game of Thrones
 
 ![image](https://qph.fs.quoracdn.net/main-qimg-7e40a587fbc65fa697d4311d39586176)
-![image](images/personaje.jpg)
+![image](images/personaje.jpng)
 
 
 
