@@ -56,6 +56,7 @@ Análisis por la temporada
 ```
 ![image](https://github.com/EduMartinezGarrido/API_SENTIMENT-GAME_OF_THRONES/blob/main/images/season.png)
 
+### [IMPORTANTE] Para utilizar la API hay que inicializar el fichero mongoapi.py
 
 ## Datos
 ***
