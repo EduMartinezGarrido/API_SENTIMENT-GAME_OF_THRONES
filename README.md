@@ -4,7 +4,7 @@
 
 
 
-![image](images/personaje.jpng)
+![image](https://github.com/EduMartinezGarrido/API_SENTIMENT-GAME_OF_THRONES/blob/main/images/personaje.png)
 
 
 
