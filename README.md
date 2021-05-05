@@ -1,6 +1,7 @@
 # Sentiment Analysis - Game of Thrones
 
 ![image](https://qph.fs.quoracdn.net/main-qimg-7e40a587fbc65fa697d4311d39586176)
+![image](images/personaje.jpg)
 
 
 
@@ -16,10 +17,11 @@
 ***
 Tareas a desarrollar en este proyecto:
 
-```
-- Crear una API con Flask usando los métodos GET y POST.
 
+- Crear una API con Flask usando los métodos GET y POST.
+```
 GET:
+
 * Nombre de todos los personajes
     (/name) --> Devuelve un json de todos los nombres
 
@@ -33,6 +35,7 @@ GET:
     (/basedatos) --> Devuelve un json con el dataset completo
 
 POST:
+
 * Para introducir nuevos personajes, frases, temporadas, capitulos y nombre del capitulo
     (/nuevafrase) -->  {'Season': "Season 1",
                         'Episode': "Episode 1",
