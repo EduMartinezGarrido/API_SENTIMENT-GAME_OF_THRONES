@@ -45,11 +45,18 @@ POST:
                         'Name': 'Edu Martinez',
                         'Sentence': 'A Martinez always pays his debts'}
 ```
-```
-- Realizar un Sentiment Analysis de las frases dichas en la serie Game of Thrones.
 
+- Realizar un Sentiment Analysis de las frases dichas en la serie Game of Thrones.
+```
+Anális por personaje
+```
 ![image](https://github.com/EduMartinezGarrido/API_SENTIMENT-GAME_OF_THRONES/blob/main/images/personaje.png)
 ```
+Análisis por la temporada
+```
+![image](https://github.com/EduMartinezGarrido/API_SENTIMENT-GAME_OF_THRONES/blob/main/images/season.png)
+
+
 ## Datos
 ***
 Los datos que usamos vienen de un dataset descargado en Kaggle.
